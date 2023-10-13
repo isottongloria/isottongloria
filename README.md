@@ -16,7 +16,7 @@
 ![VBA](https://img.shields.io/badge/Excel%20VBA-%2344A833.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![c++](https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=gnu-bash&logoColor=red)
+![c++](https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=gnu-bash&logoColor=white)
 </div>
 
 <br />
