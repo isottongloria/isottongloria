@@ -1,3 +1,5 @@
+
+
 ## Contact
 <div align="center">
   
@@ -6,6 +8,12 @@
 </div>
 
 <br />
+</div>
+
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Italian</a></td></tr>
+</table>
 
 ## Skills
 <div align="center">
@@ -39,6 +47,7 @@
 
 </div>
 
+</div>
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/isottongloria/count.svg" />
