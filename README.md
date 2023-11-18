@@ -60,3 +60,8 @@ const Gloria = {
 </div>
 
 <br />
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![gloriaisotton's github stats](https://github-readme-stats.vercel.app/api?username=isottongloria&show_icons=true&theme=dracula)
+
