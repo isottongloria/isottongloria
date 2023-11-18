@@ -1,13 +1,4 @@
-
-
-## Contact
-<div align="center">
-  
-  gloria.isotton@studenti.unipd.it
-  
-</div>
-
-<br />
+<h2> Hi, I'm Isotton Gloria! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
 ## Skills
@@ -44,5 +35,15 @@
 
 <br />
 
-### Visitor count
+## Visitor count
 <img src="https://profile-counter.glitch.me/isottongloria/count.svg" />
+
+
+## Contact
+<div align="center">
+  
+  gloria.isotton@studenti.unipd.it
+  
+</div>
+
+<br />
