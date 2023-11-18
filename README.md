@@ -18,8 +18,7 @@ const Gloria = {
                     } 
 
 
-Challenge accepted! 🚀 Dive into Cognitive Systems, embark on software development adventures,
-and sprinkle it all with some friendly coding emojis! 💻🤖📚😊
+Challenge accepted! 🚀 Dive into Cognitive Systems, soon embark on software development adventures! 💻🤖📚😊
 }
 ```
 
