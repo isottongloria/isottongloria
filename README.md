@@ -7,17 +7,19 @@ const Gloria = {
   pronouns: "she" | "her",
   code: [R, Python, C++],
   organization: {
-                        name: "University of Padua",
-                        degree: "Pysics of data"
+                        name: "University of Padua" 🎓,
+                        degree: "Pysics of data" 💻🤓.
                  }
   current interests: {
                         statistical mechanics,
-                        machine learning,
-                        cognitive systems.
-                    } 🚀✨
+                        living systems 🌱🌍🔬,
+                        machine learning 🤖,
+                        cognitive systems 🧠💡🤖.
+                    } 
 
 
-Challenge accepted! 🚀 Dive into Cognitive Systems, embark on software development adventures, and sprinkle it all with some friendly coding emojis! 💻🤖📚😊
+Challenge accepted! 🚀 Dive into Cognitive Systems, embark on software development adventures,
+and sprinkle it all with some friendly coding emojis! 💻🤖📚😊
 }
 ```
 
