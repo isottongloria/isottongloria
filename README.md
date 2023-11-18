@@ -40,19 +40,5 @@
 </div>
 
 
-</td>
-</tr>
-</table>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriazraza&show_icons=true&locale=en&layout=compact" alt="sriazraza" /></p>
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriazraza&show_icons=true&locale=en" alt="sriazraza" /></p>
-    </td>
-    <td style="border: 0";>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriazraza&" alt="sriazraza" /></p>
-    </td>
-</tr>
-</table>
+### Visitor count
+<img src="https://profile-counter.glitch.me/isottongloria/count.svg" />
