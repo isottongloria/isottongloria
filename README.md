@@ -11,14 +11,14 @@ const Gloria = {
                         degree: "Pysics of data" 💻🤓.
                  }
   current interests: {
-                        statistical mechanics,
-                        living systems 🌱🌍🔬,
                         machine learning 🤖,
-                        cognitive systems 🧠💡🤖.
-                    } 
+                        cognitive systems 🧠💡🤖
+                        living systems 🌱🌍🔬,
+                        epidemiology🦠🌍.
+                     } 
 
 
-Challenge accepted! 🚀 Dive into Cognitive Systems, soon embark on software development adventures! 💻🤖📚😊
+Challenge accepted! 🚀 Dive into Cognitive Systems, soon embark on deep learning adventures! 💻🤖📚😊
 }
 ```
 
