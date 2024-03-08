@@ -18,7 +18,7 @@ const Gloria = {
                      } 
 
 
-Challenge accepted! 🚀 Dive into Cognitive Systems, soon embark on deep learning adventures! 💻🤖📚😊
+Challenge accepted! 🚀 Dive into Cognitive Systems, soon embark on natural language processing adventures! 💻🤖📚😊
 }
 ```
 
