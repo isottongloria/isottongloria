@@ -13,12 +13,12 @@ const Gloria = {
   current interests: {
                         machine learning 🤖,
                         cognitive systems 🧠💡🤖
-                        living systems 🌱🌍🔬,
-                        epidemiology🦠🌍.
+                        natural language processing 🔠🧑‍💻
+                        living systems 🌱🌍🔬
                      } 
 
 
-Challenge accepted! 🚀 Dive into Cognitive Systems, soon embark on natural language processing adventures! 💻🤖📚😊
+Challenge accepted! 🚀 Diving into CSS as I embark on my master’s thesis! 💻🤖📚😊
 }
 ```
 
