@@ -69,6 +69,11 @@ Challenge accepted! 🚀 Diving into CSS as I embark on my master’s thesis! �
   
 </div>
 
+<p align="center">
+<a href="https://linkedin.com/in/gloria-isotton-606668304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gloria-isotton-606668304" height="20" width="30" /></a>
+</p>
+
+
 <br />
 
 ## 𝗦𝘁𝗮𝘁𝘀
