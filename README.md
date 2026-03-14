@@ -6,19 +6,23 @@
 const Gloria = {
   pronouns: "she" | "her",
   code: [R, Python, C++],
+
   organization: {
-                        name: "University of Padua" 🎓,
-                        degree: "Pysics of data" 💻🤓.
+                        name: "University of Trento" 🎓,
+                        degree: "Industrial Innovation 41° cycle PhD " 💻🤓.
                  }
   current interests: {
-                        machine learning 🤖,
-                        cognitive systems 🧠💡🤖
+                        generative models 🤖,
+                        sign language 👉🫴🫳,
                         natural language processing 🔠🧑‍💻
-                        living systems 🌱🌍🔬
-                     } 
+                     }
 
+  previous organization: {
+                        name: "University of Padova" 🎓,
+                        degree: "Pysics of data" 💻🤓.
+                 }
 
-Challenge accepted! 🚀 Diving into CSS as I embark on my master’s thesis! 💻🤖📚😊
+Challenge accepted! 🚀 Diving into sign language video generation! 💻🤖📚😊
 }
 ```
 
@@ -73,6 +77,16 @@ Challenge accepted! 🚀 Diving into CSS as I embark on my master’s thesis! �
 <a href="https://linkedin.com/in/gloria-isotton-606668304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gloria-isotton-606668304" height="20" width="30" /></a>
 </p>
 
+
+/*
+  current interests: {
+                        machine learning 🤖,
+                        cognitive systems 🧠💡🤖
+                        natural language processing 🔠🧑‍💻
+                        living systems 🌱🌍🔬
+                     } 
+
+*/
 
 <br />
 
